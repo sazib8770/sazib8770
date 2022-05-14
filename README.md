@@ -8,5 +8,5 @@ Skills: HTML/CSS/JS/JQUERY/BOOTSTRAP
 - 💬 Ask me about Front-End Developement 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sazib Banik)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazib8770)    
 
