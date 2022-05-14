@@ -1,14 +1,12 @@
-### Hi there 👋
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Sazib.
+#### Web Designer
+I Am A Professional Web Designer And Developer. I Have Over Six Month Of Experience In This Platform.I Can Help You With Anything Related To Web Design And Development. I Guarantee You That I’ll Complete Your Work Appropriately On Time And Within A Reasonable Budget. My Aim Is 100% Customer Satisfaction And Completing The Project The Way The Customer Expects. I Assure You 100% Satisfaction & Guarantee With My Policy That Your Success Is My Success. For Specific Requirements, Feel Free To Message Me To Discuss Needs, Cost, And Time Quickly. I’ll Reply Instantly.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Skills: HTML/CSS/JS/JQUERY/BOOTSTRAP
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JavaScript 
+- 💬 Ask me about Front-End Developement 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sazib Banik)  
 
