@@ -1,3 +1,4 @@
+![](https://www.canva.com/design/DAFAvsZUI3w/eSszfF4yPEAOyOostoJWdA/view?utm_content=DAFAvsZUI3w&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
 <h1 align="center">Hi 👋, I'm Sazib Banik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
