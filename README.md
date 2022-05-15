@@ -1,12 +1,20 @@
-### Hi there 👋, I'm Sazib.
-#### Web Designer
-I Am A Professional Web Designer. I Have Over Six Month Of Experience In This Platform.I Can Help You With Anything Related To Web Design. I Guarantee You That I’ll Complete Your Work Appropriately On Time And Within A Reasonable Budget. My Aim Is 100% Customer Satisfaction And Completing The Project The Way The Customer Expects. I Assure You 100% Satisfaction & Guarantee With My Policy That Your Success Is My Success. For Specific Requirements, Feel Free To Message Me To Discuss Needs, Cost, And Time Quickly. I’ll Reply Instantly.
+<h1 align="center">Hi 👋, I'm Sazib Banik</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-Skills: HTML/CSS/JS/JQUERY/BOOTSTRAP
+- 🌱 I’m currently learning **JavaScript**
 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Front-End Developement 
+- 👯 I’m looking to collaborate on **other developers and designers**
 
+- 👨‍💻 All of my projects are available at [https://github.com/sazib8770](https://github.com/sazib8770)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazib8770)    
+- 💬 Ask me about **front-end**
 
+- 📫 How to reach me **sazibbanik8770@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sazib8770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sazib8770" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
